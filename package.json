@@ -1,0 +1,14 @@
+{
+  "name": "projeto-tees",
+  "version": "1.0.0",
+  "description": "projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alina",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
